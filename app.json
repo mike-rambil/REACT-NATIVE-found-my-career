@@ -8,6 +8,26 @@
       "expo-router"
     ],
     "name": "found-my-career",
-    "slug": "found-my-career"
+    "slug": "found-my-career",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f699e97c-c43b-4dfb-a1da-92bc19fb549f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f699e97c-c43b-4dfb-a1da-92bc19fb549f"
+    },
+    "android": {
+      "package": "found.my.career"
+    },
+    "ios": {
+      "bundleIdentifier": "found.my.career"
+    }
   }
 }

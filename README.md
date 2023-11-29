@@ -2,7 +2,7 @@
 
 Happy job hunting! 🌟
 
-## Stack: REACT NATIVE APP for both IOS/ANDROID
+## Stack: `REACT NATIVE APP` for both IOS/ANDROID
 
 | <div align="center"><img align="left" src="https://mike-palliparambil.vercel.app/portfolio/images/found-my-career-1.png" alt="mike-rambil" /></div> | <img align="right" src="https://mike-palliparambil.vercel.app/portfolio/images/found-my-career-2.png" alt="mike-rambil" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |

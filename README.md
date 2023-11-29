@@ -2,6 +2,9 @@
 
 Happy job hunting! 🌟
 
+| <div align="center"><img align="left" src="https://https://mike-palliparambil.vercel.app/portfolio/images/found-my-career-1.png" alt="mike-rambil" /></div> | <img align="right" src="https://https://mike-palliparambil.vercel.app/portfolio/images/found-my-career-2.png" alt="mike-rambil" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+
 ## Key Features
 
 - **Effortless Job Search**: Explore a vast database of job listings with ease, filtered to match your skills and preferences.
